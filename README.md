@@ -1,6 +1,6 @@
 
 
-## Freelancer Connect Telegram-🤖
+## Freelancer Connect Telegram
 A channel for connecting freelancer to clients. This bot simplifies the process of finding and hiring freelancers for various projects.
 
 #### Features
